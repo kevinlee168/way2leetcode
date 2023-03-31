@@ -29,7 +29,6 @@ public class Sum_of_Square_Numbers_633 {
                 return true;
             }
         }
-
         return false;
     }
 }
