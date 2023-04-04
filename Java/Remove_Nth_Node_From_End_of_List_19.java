@@ -1,4 +1,6 @@
-package leetcode;
+package leetcode.Java;
+
+import leetcode.Java.ListNode;
 
 /**
   Q: 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。

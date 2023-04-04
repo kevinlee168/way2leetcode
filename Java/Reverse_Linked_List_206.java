@@ -1,4 +1,6 @@
-package leetcode;
+package leetcode.Java;
+
+import leetcode.Java.ListNode;
 
 public class Reverse_Linked_List_206 {
     /**

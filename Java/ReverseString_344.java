@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.Java;
 
 public class ReverseString_344 {
     public static void main(String[] args) {

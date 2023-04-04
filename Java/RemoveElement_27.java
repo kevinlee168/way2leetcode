@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.Java;
 
 public class RemoveElement_27 {
     public static void main(String[] args) {

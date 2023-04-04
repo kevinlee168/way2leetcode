@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.Java;
 
 /**
  * Given an integer array nums, move all 0's to the end of it

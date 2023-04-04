@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.Java;
 
 /**
  * Q: Given a string s, return true

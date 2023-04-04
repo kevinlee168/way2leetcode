@@ -1,7 +1,10 @@
-package leetcode;
+package leetcode.Java;
 /**
  * Created by Kevin Lee on 4/4/23
  */
+
+import leetcode.Java.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
