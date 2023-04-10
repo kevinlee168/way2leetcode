@@ -23,7 +23,7 @@ package leetcode.Java;
  *  Step 3:
  *      Return linklist left.next;
  */
-class Solution {
+class PartitionList {
     public ListNode partition(ListNode head, int x) {
         if (head == null || head.next == null) return head;
 
