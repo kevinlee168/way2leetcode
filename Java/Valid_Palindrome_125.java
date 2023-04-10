@@ -39,8 +39,8 @@ class Solution {
         int left = 0;
         int right = str.length() - 1;
         while (left <= right) {
-            while (left < str.length() && !Character.isAlphabetic(str.charAt(left)) && !Character.isDigit(str.charAt(left))) left++;
-            while (0 <= right && !Character.isAlphabetic(str.charAt(right)) && !Character.isDigit(str.charAt(right))) right--;
+            while (left < str.length() && !Character.isLetterOrDigit(str.charAt(left))) left++;
+            while (0 <= right && !Character.isLetterOrDigit(str.charAt(right))) right--;
 
             if (left < str.length() && right >= 0) {
                 if (str.charAt(left) != str.charAt(right)) return false;
